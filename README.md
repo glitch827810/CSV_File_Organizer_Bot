@@ -18,7 +18,8 @@ Features
 
 Requirements
 ------------
-Python 3.8 or higher must be installed
+- Python 3.8 or higher must be installed
+
 Install dependencies using pip:
 
     pip install -r requirements.txt
